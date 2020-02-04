@@ -10,15 +10,15 @@ This is UNOFFICIAL, so don't blame the DayZ development team if this is not work
 # Important Warning
 
 You Must Have ```Chiemsee``` Downloaded and Installed from the steam workshop to play this Mod .. The contents of Chiemsee Mod folder that you need to play Chiemsee is not included with this download.
-To Download Chiemsee please visit the steam store https://steamcommunity.com/sharedfiles/filedetails/?id=1580589252
+To Download Chiemsee please visit the steam [Store](https://steamcommunity.com/sharedfiles/filedetails/?id=1580589252)
 # Info for server owners & mappers
 There is now a wiki page available on how to use the community offline mode to spawn map objects on your server or mission you are working on: [Add custom objects to your server or mission](https://github.com/Arkensor/DayZCommunityOfflineMode/wiki/Add-custom-objects-to-your-server-or-mission)
 
 # Installation:
-To Download ```Chiemsee``` please visit the steam store https://steamcommunity.com/sharedfiles/filedetails/?id=1580589252 and click on Subscribe and wait for steam to download the Workshop content, Once installed Run DayZ via Steam by clicking play on the DayZ page from within your game libary, when the Steam DayZ Launcher screen shows, Click on Mods on the menu to the left, Find ```Chiemsee``` in your mods List and click the drop down box arrow to the right of the DeerIsle line, Click the 3 dotted line to ```"Display More Options"``` and select "Open Folder in Windows Explorer", Click "I understand" in the next window, now copy ```@Chiemsee``` folder, press up one level in your current folder and paste the ```@Chiemsee``` into the DayZ folder that you should now be in ```C:\Program Files (x86)\Steam\steamapps\common\DayZ```
+To Download ```Chiemsee``` please visit the steam [Store](https://steamcommunity.com/sharedfiles/filedetails/?id=1580589252) and click on Subscribe and wait for steam to download the Workshop content, Once installed Run DayZ via Steam by clicking play on the DayZ page from within your game libary, when the Steam DayZ Launcher screen shows, Click on Mods on the menu to the left, Find ```Chiemsee``` in your mods List and click the drop down box arrow to the right of the DeerIsle line, Click the 3 dotted line to ```"Display More Options"``` and select "Open Folder in Windows Explorer", Click "I understand" in the next window, now copy ```@Chiemsee``` folder, press up one level in your current folder and paste the ```@Chiemsee``` into the DayZ folder that you should now be in ```C:\Program Files (x86)\Steam\steamapps\common\DayZ```
 
 
-Download [this](https://github.com/CypherMediaGIT/DayZCommunityOfflineMode-DeerIsle-Edition/releases/download/1.0/DayZCommunityOfflineMode.deerIsle.zip) zip archive.  
+Download [This](https://github.com/CypherMediaGIT/CypherMediaGIT-DayZCommunityOfflineMode-Chiemsee-Edition/releases/download/1.0/DayZCommunityOfflineMode.Chiemsee.zip) zip archive.  
 Make sure you are on the latest `STABLE` or `EXPERIMENTAL` version of the game.
 
 Unpack and Place the ```DayZCommunityOfflineMode.Chiemsee``` folder inside your ```Missions``` folder in the DayZ game directory (```For example: C:\Program Files (x86)\Steam\steamapps\common\DayZ```).  
