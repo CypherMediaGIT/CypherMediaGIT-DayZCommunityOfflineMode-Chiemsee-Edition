@@ -57,7 +57,7 @@ You might delete your whole ```Missions``` folder and validate your game files v
 * https://dayz.ginfo.gg/chiemseeSat/
  
 # Loot and infected spawn
-By default the "Hive" that is repsonsible for spawning loot and infected is **enabled**. If you want to prevent loot and infected from spawning you need to follow this guide: [Toggle loot and infected spawn](https://github.com/CypherMediaGIT/DayZCommunityOfflineMode-DeerIsle-Edition/wiki/Toggle-Loot-and-Infected-Spawn)  
+By default the "Hive" that is repsonsible for spawning loot and infected is **enabled**. If you want to prevent loot and infected from spawning you need to follow this guide: [Toggle loot and infected spawn](https://github.com/CypherMediaGIT/CypherMediaGIT-DayZCommunityOfflineMode-Chiemsee-Edition/wiki/Toggle-Loot-and-Infected-Spawn)  
 > Disabling the hive increases the game performace.
 
 # Logfiles:
