@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user_lists>
+    <usageflags>
+        <user name="TownVillage">
+            <usage name="Town" />
+            <usage name="Village" />
+        </user>
+        <user name="TownVillageOfficeSchool">
+            <usage name="Town" />
+            <usage name="Village" />
+            <usage name="Office" />
+            <usage name="School" />
+        </user>
+    </usageflags>
+
+        <user name="TierN">
+            <value name="Tier1" />
+            <value name="Tier2" />
+			<value name="Tier3" />
+        </user>
+        <user name="TierS">
+            <value name="Tier4" />
+            <value name="Tier7" />
+			<value name="Tier8" />
+			<value name="Tier9" />
+			<value name="Tier13" />
+        </user>
+        <user name="TierSp">
+            <value name="Tier5" />
+            <value name="Tier6" />
+            <value name="Tier10" />
+			<value name="Tier11" />
+            <value name="Tier12" />
+        </user>  
+</user_lists>

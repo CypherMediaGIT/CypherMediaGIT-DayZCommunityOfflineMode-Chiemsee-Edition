@@ -1,4 +1,4 @@
-# DayZCommunityOfflineMode Chiemsee Edition 1.2
+# DayZCommunityOfflineMode Chiemsee Edition 1.3
 
 **Thank you to Arkensor for his Mod DayZCommunityOffline Mode**
 **For without his Mod this would not exsit**  
@@ -18,10 +18,11 @@ There is now a wiki page available on how to use the community offline mode to s
 To Download ```Chiemsee``` please visit the steam [Store](https://steamcommunity.com/sharedfiles/filedetails/?id=1580589252) and click on Subscribe and wait for steam to download the Workshop content, Once installed Run DayZ via Steam by clicking play on the DayZ page from within your game libary, when the Steam DayZ Launcher screen shows, Click on Mods on the menu to the left, Find ```Chiemsee``` in your mods List and click the drop down box arrow to the right of the DeerIsle line, Click the 3 dotted line to ```"Display More Options"``` and select "Open Folder in Windows Explorer", Click "I understand" in the next window, now copy ```@Chiemsee``` folder, press up one level in your current folder and paste the ```@Chiemsee``` into the DayZ folder that you should now be in ```C:\Program Files (x86)\Steam\steamapps\common\DayZ```
 
 
-Download [This](https://github.com/CypherMediaGIT/DayZCommunityOfflineMode-Chiemsee-Edition/releases/download/1.2/DayZCommunityOfflineMode.Chiemsee.zip) zip archive.  
+Download [This](https://github.com/CypherMediaGIT/DayZCommunityOfflineMode-Chiemsee-Edition/releases/download/1%2C3/Chiemsee_Offline_Modes_4tier_16tier.zip) zip archive.  
 Make sure you are on the latest `STABLE` or `EXPERIMENTAL` version of the game.
 
-Unpack and Place the ```DayZCommunityOfflineMode.Chiemsee``` folder inside your ```Missions``` folder in the DayZ game directory (```For example: C:\Program Files (x86)\Steam\steamapps\common\DayZ```).  
+Unpack and Place the ```DayZCommunityOfflineMode.Chiemsee``` folder inside your ```Missions``` folder in the DayZ game directory (```For example: C:\Program Files (x86)\Steam\steamapps\common\DayZ```). 
+In this version i have now included the 4 Tier and 16 Tier versions in the same Zip, Just make sure you choose the correct version for whats on your server. 
 Even though this is not directly bannable by Battleye, just to make sure: Rename your Battleye folder to Battleye.disabled, and rename the DayZ_BE.exe to DayZ_BE.exe.disabled.
 
 Now you now start the script ```DayZ/Missions/DayZCommunityOfflineMode.Chiemsee/DayZCOfflineMChiemsee.bat``` to start the game. You will be loaded directly into the offline mode.  
